@@ -115,7 +115,7 @@ Tabelle | Erster Sektor (LBA) | Letzter Sektor (LBA) | Anzahl Sektoren | Dateisy
 
 ### Übungsaufgabe 3.5
 #### Übungsaufgabe 3.5.1
-- `0x 00 02` (LE) = `0x 02 00` (BE) = 256 dez = 512 Bytes
+- `0x 00 02` (LE) = `0x 02 00` (BE) -> 512 Bytes
 
 #### Übungsaufgabe 3.5.2
 - Stimmt, zumindest wenn LE in BE umgewandelt wird
