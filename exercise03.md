@@ -104,7 +104,7 @@ Tabelle | Erster Sektor (LBA) | Letzter Sektor (LBA) | Anzahl Sektoren | Dateisy
 #### Übungsaufgabe 3.4.7
 - `DIR2` hat Startcluster: `0x 10 00` (LE) = `0x 00 10` (BE) = 16 (dez.)
 - (84 + 2 * 16) * 512 = 59392
-- `FRA63.DAT` ist einzige Datei
+- `FRAG3.DAT` ist einzige Datei
 - Cluster (Start): `0x 11 00` (LE) = `0x 00 11` (BE) = 17 (dez.)
   - (84 + 2 * 17) * 512 = 60416 (Start)
 - Länge: `0x EB 07 00 00` (LE) = `0x 00 00 07 EB` (BE) = 2027 (dez.)
